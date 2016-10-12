@@ -1,0 +1,8 @@
+version: '2'
+services:
+  ruby-rails-timing:
+    build: .
+    ports:
+      - "8888:80"
+    volumes:
+      - .:/srv/timing

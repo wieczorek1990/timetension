@@ -1,0 +1,5 @@
+build-essential
+libsqlite3-dev
+ruby
+ruby-dev
+zlib1g-dev
